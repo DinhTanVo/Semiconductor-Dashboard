@@ -1,10 +1,10 @@
-# Historical V5 technical reference
+# Historical technical reference
 
 Run and report instructions are superseded by README.md.
 
-# V5 update notes
+# update notes
 
-This release directly updates the supplied V4 project. The supplied V3 archive was opened and its original BGA component structure and CSS were restored; it is not a newly generated approximation.
+This release directly updates the supplied project. The supplied V3 archive was opened and its original BGA component structure and CSS were restored; it is not a newly generated approximation.
 
 ## Navigation and filters
 - Five separate live pages, sticky navigation and Previous/Next controls.
@@ -19,7 +19,7 @@ The data and statistical methods are unchanged. Default Python runtime remains t
 
 ---
 
-# Semiconductor Manufacturing & Quality Analytics | V5
+# Semiconductor Manufacturing & Quality Analytics 
 
 **Vo Tan Dinh | Engineering, Data & Process Improvement**
 
@@ -53,7 +53,7 @@ python app.py --dash
 
 The Dash adapter embeds the same website and exposes the same Python analysis endpoint. The default standard-library runtime was browser-tested. Dash could not be installed in the build environment, so the optional adapter is not claimed as executed or tested. This is a reconstructed V4, not a byte-identical patch of the original V2/V3 archives.
 
-## What changed in V4
+## What changed
 
 - Overview uses the approved Stage / title / lead / paragraph / Engineers monitor / Output hierarchy. No Purpose or Process description labels were added.
 - All three stage descriptions and the BGA two-interface text follow the approved copy, with spelling and punctuation corrections only.
