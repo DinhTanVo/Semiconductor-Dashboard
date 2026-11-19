@@ -1,0 +1,8 @@
+defect_code,defect_name,process_id
+D01,Film anomaly,S01
+D02,Pattern bridge,S02
+D03,Etch nonuniformity,S03
+D04,Placement anomaly,S09
+D05,Underfill void,S10
+D06,Warpage anomaly,S11
+D07,Electrical failure symptom,S12

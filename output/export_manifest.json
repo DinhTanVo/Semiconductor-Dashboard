@@ -1,0 +1,77 @@
+{
+  "exported_utc": "2026-11-18 08:14 UTC",
+  "format": "one complete tab per variable-height PDF page",
+  "sections": [
+    {
+      "title": "Manufacturing Overview",
+      "scope": "All products, lots and run-end dates; default page selections.",
+      "pages": 1,
+      "height_css_px": 3113
+    },
+    {
+      "title": "Data Overview & EDA",
+      "scope": "All products, lots and run-end dates; default page selections.",
+      "pages": 1,
+      "height_css_px": 5380
+    },
+    {
+      "title": "Yield & Defect Analysis",
+      "scope": "All products, lots and run-end dates; default page selections.",
+      "pages": 1,
+      "height_css_px": 2982
+    },
+    {
+      "title": "SPC & Process Capability",
+      "scope": "Flip-chip attach | E09A-H2 | All periods | display First signal. Frozen limits unchanged by display.",
+      "pages": 1,
+      "height_css_px": 3327
+    },
+    {
+      "title": "Root Cause Investigation",
+      "scope": "All products, lots and run-end dates; default page selections. Assembly cohort threshold 98%. Notes not recorded.",
+      "pages": 1,
+      "height_css_px": 5500
+    },
+    {
+      "title": "SPC Appendix | Reference display",
+      "scope": "Flip-chip attach | E09A-H2 | All periods | display Reference window. Frozen limits unchanged by display.",
+      "pages": 1,
+      "height_css_px": 1513
+    },
+    {
+      "title": "SPC Appendix | Disturbance display",
+      "scope": "Flip-chip attach | E09A-H2 | All periods | display Custom window starting at 1800. Frozen limits unchanged by display.",
+      "pages": 1,
+      "height_css_px": 1513
+    },
+    {
+      "title": "SPC Appendix | Post-action display",
+      "scope": "Flip-chip attach | E09A-H2 | All periods | display Post-action window. Frozen limits unchanged by display.",
+      "pages": 1,
+      "height_css_px": 1513
+    },
+    {
+      "title": "SPC Appendix | Full history",
+      "scope": "Flip-chip attach | E09A-H2 | All periods | display Full history. Frozen limits unchanged by display.",
+      "pages": 1,
+      "height_css_px": 1513
+    }
+  ],
+  "notes": "blank template",
+  "dataset_sha256": {
+    "defects.csv": "7fe33662790d8195c730e6f21cbb89728e37ecb8baf60dd40a56d8df7fc747b9",
+    "equipment_events.csv": "d5965df0bac267c4bfc3f985fbd15a082d36ea9fab71a581fcff6c238de1de94",
+    "lots.csv": "4f8b6028a7316a7d2ca95c76f64d999aebcec10442bc3494c7bd7dc1684c976c",
+    "measurements.csv": "0ee0686944e5e578f4f88e609f5d4357f2c8b6a23c099663e0e59b094e78cc96",
+    "packages.csv": "a6df89bb36eddb3bd0009f93e87151d9411ce74198f1440d648c0e9d2f5ed1b7",
+    "process_runs.csv": "0da6a582bb23062998ff9142fa2cd3ac206b3d95c2382b010e7182695c43890b",
+    "test_results.csv": "c824ee1bf58b986e66745199453cf1b8617220a62001faa7837ca9ad31ff9f30",
+    "wafers.csv": "b6c2befae441be93b8ad5df31d1b10718e740d8b0be5e1788a3e8c2a0d25492c"
+  },
+  "summary_pages": 8,
+  "full_pages": 10,
+  "footer_verified": true,
+  "live_deployment": false,
+  "portfolio_revision": "Final corrected: portfolio buttons removed only; website links restored",
+  "final_validation": "restored_links_validation.json"
+}

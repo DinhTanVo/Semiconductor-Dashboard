@@ -1,0 +1,16 @@
+{
+  "checks": [
+    "Live Portfolio PDF link",
+    "Live Full dashboard PDF link",
+    "Tab overview",
+    "Tab eda",
+    "Tab yield",
+    "Tab spc",
+    "Tab root",
+    "Filter",
+    "Reset",
+    "Offline links/images/navigation"
+  ],
+  "browser_errors": [],
+  "portfolio_and_full_pdf_unchanged": true
+}

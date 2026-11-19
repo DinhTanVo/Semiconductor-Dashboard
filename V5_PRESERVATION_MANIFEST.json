@@ -1,0 +1,14 @@
+{
+  "data/raw/defects.csv": "7fe33662790d8195c730e6f21cbb89728e37ecb8baf60dd40a56d8df7fc747b9",
+  "data/raw/equipment_events.csv": "d5965df0bac267c4bfc3f985fbd15a082d36ea9fab71a581fcff6c238de1de94",
+  "data/raw/lots.csv": "4f8b6028a7316a7d2ca95c76f64d999aebcec10442bc3494c7bd7dc1684c976c",
+  "data/raw/measurements.csv": "0ee0686944e5e578f4f88e609f5d4357f2c8b6a23c099663e0e59b094e78cc96",
+  "data/raw/packages.csv": "a6df89bb36eddb3bd0009f93e87151d9411ce74198f1440d648c0e9d2f5ed1b7",
+  "data/raw/process_runs.csv": "0da6a582bb23062998ff9142fa2cd3ac206b3d95c2382b010e7182695c43890b",
+  "data/raw/test_results.csv": "c824ee1bf58b986e66745199453cf1b8617220a62001faa7837ca9ad31ff9f30",
+  "data/raw/wafers.csv": "b6c2befae441be93b8ad5df31d1b10718e740d8b0be5e1788a3e8c2a0d25492c",
+  "data/reference/defect_catalog.csv": "54fcdf7a13a032866c8566420e376aee744eb839e8e01b3076c478084543a85d",
+  "data/reference/equipment.csv": "e070ce3a0458489e4958f3951bc6f6fecc15b5d7ddb4fbfbc4533d6ceb390767",
+  "data/reference/process_steps.csv": "7839df27291deb54b147f839c262764b5bfebfc46c399a46296c082efb9f6dee",
+  "requirements.txt": "0126d59c36587b59d5854206a0081bfcdb4c3e28cd47d0a3a74448a66af58b92"
+}

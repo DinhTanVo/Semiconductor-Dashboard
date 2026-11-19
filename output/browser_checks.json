@@ -1,0 +1,30 @@
+{
+  "checks": [
+    "overview at 1440px: no page-level overflow, rendered charts and heading",
+    "eda at 1440px: no page-level overflow, rendered charts and heading",
+    "yield at 1440px: no page-level overflow, rendered charts and heading",
+    "spc at 1440px: no page-level overflow, rendered charts and heading",
+    "root at 1440px: no page-level overflow, rendered charts and heading",
+    "overview at 1024px: no page-level overflow, rendered charts and heading",
+    "eda at 1024px: no page-level overflow, rendered charts and heading",
+    "yield at 1024px: no page-level overflow, rendered charts and heading",
+    "spc at 1024px: no page-level overflow, rendered charts and heading",
+    "root at 1024px: no page-level overflow, rendered charts and heading",
+    "overview at 390px: no page-level overflow, rendered charts and heading",
+    "eda at 390px: no page-level overflow, rendered charts and heading",
+    "yield at 390px: no page-level overflow, rendered charts and heading",
+    "spc at 390px: no page-level overflow, rendered charts and heading",
+    "root at 390px: no page-level overflow, rendered charts and heading",
+    "All SPC display windows preserve frozen limits and full-study n; custom start and full history work",
+    "EDA parameter selector updates",
+    "Empty filtered scope returns N/A and explicit no-data charts",
+    "Yield-to-SPC handoff retains selected process",
+    "5 Whys/CAPA survive tab navigation and download as JSON",
+    "Single-lot root-cause view avoids unsupported period contrast",
+    "Histogram mean equals finite selected observations and updates after statistical-study filter",
+    "Offline HTML opens with embedded images and expanded methods"
+  ],
+  "browser_errors": [],
+  "tested_runtime": "Python standard-library server + local Plotly",
+  "dash_adapter": "not executed; Dash unavailable in build environment"
+}

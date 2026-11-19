@@ -1,0 +1,42 @@
+{
+  "portfolio_summary": {
+    "pages": 6,
+    "bounds_issues": [],
+    "navigation_links": 0,
+    "page_heights_pt": [
+      595,
+      595,
+      595,
+      595,
+      595,
+      595
+    ]
+  },
+  "full_dashboard_report": {
+    "pages": 10,
+    "bounds_issues": [],
+    "navigation_links": 38,
+    "page_heights_pt": [
+      586,
+      2335,
+      4035,
+      2237,
+      2496,
+      4125,
+      1135,
+      1135,
+      1135,
+      1135
+    ]
+  },
+  "offline_controls": {
+    "selects": 19,
+    "buttons": 17,
+    "preview_rows": 10
+  },
+  "automated_tests_passed": 82,
+  "browser_checks_passed": 23,
+  "browser_page_errors": 0,
+  "data_and_runtime_requirements_unchanged": true,
+  "test_environment": "Linux / Python 3.12 / Chromium; Windows not executed"
+}
